@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/barrel"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/barrel"},
+		{"predicate": {"custom_model_data":5238}, "model": "item/buff_icons/keep_inventory"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/drill_fuel_tank"}
+	]
+}

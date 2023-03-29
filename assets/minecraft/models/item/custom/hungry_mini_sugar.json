@@ -1,0 +1,37 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/custom/hungry_mini_sugar"
+	},
+    "display": {
+        "ground": {
+            "rotation": [ 90, 0, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 1, 1, 0.1]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 2.3, 2.3, 0.1]
+        },
+        "gui": {
+            "translation": [ 0, 2, 0],
+            "scale":[ 2, 2, 2]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ -10, 10, -50],
+            "scale":[ 2, 2, 0]
+        },
+        "head": {
+            "rotation": [ 0, -90, 0 ],
+            "translation": [ 0, -20, 30],
+            "scale":[ 1, 1, 0 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 90, 0, 0 ],
+            "translation": [ 0, 0, 3],
+            "scale":[ 0.5, 0.5, 0.05]
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/spawn_egg"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "minecraft:item/template_spawn_egg"},
+		{"predicate": {"custom_model_data":5238}, "model": "item/custom/test_item"}
+	]
+}

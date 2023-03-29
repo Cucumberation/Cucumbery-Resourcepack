@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/prismarine_shard"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/stonk"},
+		{"predicate": {"custom_model_data":25202}, "model": "item/custom/titanium_drill"}
+	]
+}

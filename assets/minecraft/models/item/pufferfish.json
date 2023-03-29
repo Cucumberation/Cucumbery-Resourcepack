@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/pufferfish"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5201}, "model": "item/buff_icons/awkward"},
+		{"predicate": {"custom_model_data":5204}, "model": "item/buff_icons/cheese_experiment"},
+		{"predicate": {"custom_model_data":5269}, "model": "item/buff_icons/var_pneumonia"}
+	]
+}

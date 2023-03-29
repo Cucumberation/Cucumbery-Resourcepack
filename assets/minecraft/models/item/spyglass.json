@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/spyglass"
+  },
+    "display": {
+        "ground": {
+            "translation": [ 0, 3, 0],
+            "scale":[ 1, 1, 1]
+        }
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/teleport_spyglass"}
+	]
+}

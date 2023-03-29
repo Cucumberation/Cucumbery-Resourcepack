@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/quartz"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/titanium_ore"}
+	]
+}

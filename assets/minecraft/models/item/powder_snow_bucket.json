@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/powder_snow_bucket"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5285}, "model": "item/buff_icons/freezing"}
+	]
+}

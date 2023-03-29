@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/buff_icons/buff_template",
+		"layer1": "item/buff_icons/smelting_touch"
+	}
+}

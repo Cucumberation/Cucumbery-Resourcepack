@@ -1,0 +1,44 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/potion_overlay",
+		"layer1": "item/potion"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5290}, "model": "item/buff_icons/gaesans"},
+		{"predicate": {"custom_model_data":15201}, "model": "item/buff_icons/vanilla/speed"},
+		{"predicate": {"custom_model_data":15202}, "model": "item/buff_icons/vanilla/slowness"},
+		{"predicate": {"custom_model_data":15203}, "model": "item/buff_icons/vanilla/haste"},
+		{"predicate": {"custom_model_data":15204}, "model": "item/buff_icons/vanilla/mining_fatigue"},
+		{"predicate": {"custom_model_data":15205}, "model": "item/buff_icons/vanilla/strength"},
+		{"predicate": {"custom_model_data":15206}, "model": "item/buff_icons/vanilla/instant_health"},
+		{"predicate": {"custom_model_data":15207}, "model": "item/buff_icons/vanilla/instant_damage"},
+		{"predicate": {"custom_model_data":15208}, "model": "item/buff_icons/vanilla/jump_boost"},
+		{"predicate": {"custom_model_data":15209}, "model": "item/buff_icons/vanilla/nausea"},
+		{"predicate": {"custom_model_data":15210}, "model": "item/buff_icons/vanilla/regeneration"},
+		{"predicate": {"custom_model_data":15211}, "model": "item/buff_icons/vanilla/resistance"},
+		{"predicate": {"custom_model_data":15212}, "model": "item/buff_icons/vanilla/fire_resistance"},
+		{"predicate": {"custom_model_data":15213}, "model": "item/buff_icons/vanilla/water_breathing"},
+		{"predicate": {"custom_model_data":15214}, "model": "item/buff_icons/vanilla/invisibility"},
+		{"predicate": {"custom_model_data":15215}, "model": "item/buff_icons/vanilla/blindness"},
+		{"predicate": {"custom_model_data":15216}, "model": "item/buff_icons/vanilla/night_vision"},
+		{"predicate": {"custom_model_data":15217}, "model": "item/buff_icons/vanilla/hunger"},
+		{"predicate": {"custom_model_data":15218}, "model": "item/buff_icons/vanilla/weakness"},
+		{"predicate": {"custom_model_data":15219}, "model": "item/buff_icons/vanilla/poison"},
+		{"predicate": {"custom_model_data":15220}, "model": "item/buff_icons/vanilla/wither"},
+		{"predicate": {"custom_model_data":15221}, "model": "item/buff_icons/vanilla/health_boost"},
+		{"predicate": {"custom_model_data":15222}, "model": "item/buff_icons/vanilla/absorption"},
+		{"predicate": {"custom_model_data":15223}, "model": "item/buff_icons/vanilla/saturation"},
+		{"predicate": {"custom_model_data":15224}, "model": "item/buff_icons/vanilla/glowing"},
+		{"predicate": {"custom_model_data":15225}, "model": "item/buff_icons/vanilla/levitation"},
+		{"predicate": {"custom_model_data":15226}, "model": "item/buff_icons/vanilla/luck"},
+		{"predicate": {"custom_model_data":15227}, "model": "item/buff_icons/vanilla/unluck"},
+		{"predicate": {"custom_model_data":15228}, "model": "item/buff_icons/vanilla/slow_falling"},
+		{"predicate": {"custom_model_data":15229}, "model": "item/buff_icons/vanilla/conduit_power"},
+		{"predicate": {"custom_model_data":15230}, "model": "item/buff_icons/vanilla/dolphins_grace"},
+		{"predicate": {"custom_model_data":15231}, "model": "item/buff_icons/vanilla/bad_omen"},
+		{"predicate": {"custom_model_data":15232}, "model": "item/buff_icons/vanilla/hero_of_the_village"},
+		{"predicate": {"custom_model_data":15233}, "model": "item/buff_icons/vanilla/darkness"}
+	]
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/shears"
+  },
+    "display": {
+        "ground": {
+            "translation": [ 0, 3, 0],
+            "scale":[ 1, 1, 1]
+        }
+    }
+}

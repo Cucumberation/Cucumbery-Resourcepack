@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_helmet",
+        "layer1": "item/leather_helmet_overlay"
+    },
+    "display": {
+        "ground": {
+            "translation": [ 0, 3, 0],
+            "scale":[ 1, 1, 1]
+        }
+    },
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/copper_helmet"},
+		{"predicate": {"custom_model_data":25202}, "model": "item/custom/tungsten_helmet"},
+		{"predicate": {"custom_model_data":25203}, "model": "item/custom/cobalt_helmet"},
+		{"predicate": {"custom_model_data":25204}, "model": "item/custom/mithril_helmet"},
+		{"predicate": {"custom_model_data":25205}, "model": "item/custom/titanium_helmet"}
+	]
+}

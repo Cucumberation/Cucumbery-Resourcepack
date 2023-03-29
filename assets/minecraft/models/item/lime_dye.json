@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/lime_dye"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/tungsten_ore"},
+		{"predicate": {"custom_model_data":25202}, "model": "item/custom/jade"}
+	]
+}

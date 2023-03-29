@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/buff_icons/debuff_template",
+		"layer1": "item/buff_icons/cheese_experiment"
+	}
+}

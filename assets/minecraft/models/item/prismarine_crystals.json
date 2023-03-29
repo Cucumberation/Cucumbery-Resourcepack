@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/prismarine_crystals"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/core_gemstone"},
+		{"predicate": {"custom_model_data":25202}, "model": "item/custom/core_gemstone_experience"},
+		{"predicate": {"custom_model_data":25203}, "model": "item/custom/core_gemstone_mirror"},
+		{"predicate": {"custom_model_data":25204}, "model": "item/custom/core_gemstone_mitra"},
+		{"predicate": {"custom_model_data":25205}, "model": "item/custom/mithril_ore"}
+	]
+}

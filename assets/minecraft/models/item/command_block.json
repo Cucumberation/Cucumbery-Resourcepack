@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/command_block"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/command_block"},
+		{"predicate": {"custom_model_data":5222}, "model": "item/buff_icons/debug_watcher"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/emerald"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5280}, "model": "item/buff_icons/town_shield"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/cucumberite_ingot"}
+	]
+}

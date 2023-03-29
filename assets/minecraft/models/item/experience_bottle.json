@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/experience_bottle"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/experience_bottle_grand"},
+		{"predicate": {"custom_model_data":25202}, "model": "item/custom/experience_bottle_titanic"},
+		{"predicate": {"custom_model_data":25203}, "model": "item/custom/experience_bottle_colossal"}
+	]
+}

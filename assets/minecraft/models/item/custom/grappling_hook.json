@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld_rod",
+	"textures": {
+		"layer0": "item/custom/grappling_hook"
+	},
+    "display": {
+        "ground": {
+            "translation": [ 0, 3, 0],
+            "scale":[ 1, 1, 1]
+        }
+    }
+}

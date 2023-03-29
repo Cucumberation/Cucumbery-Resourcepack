@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/sea_lantern"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/sea_lantern"},
+		{"predicate": {"custom_model_data":5226}, "model": "item/buff_icons/fancy_spotlight"},
+		{"predicate": {"custom_model_data":5227}, "model": "item/buff_icons/fancy_spotlight_activated"}
+	]
+}

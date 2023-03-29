@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/experience_bottle",
+		"layer1": "item/custom/experience_bottle_colossal"
+	}
+}

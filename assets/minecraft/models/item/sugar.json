@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/sugar"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/cute_sugar"},
+		{"predicate": {"custom_model_data":25202}, "model": "item/custom/hungry_mini_sugar"}
+	]
+}

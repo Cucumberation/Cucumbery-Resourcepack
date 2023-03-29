@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/beacon"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/beacon"},
+		{"predicate": {"custom_model_data":5231}, "model": "item/buff_icons/heros_echo"},
+		{"predicate": {"custom_model_data":5232}, "model": "item/buff_icons/heros_echo_others"}
+	]
+}

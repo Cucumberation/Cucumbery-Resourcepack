@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/buff_icons/yellow_buff_template",
+		"layer1": "item/buff_icons/heros_echo"
+	}
+}

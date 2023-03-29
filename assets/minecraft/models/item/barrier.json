@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/barrier"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5245}, "model": "item/buff_icons/mute"},
+		{"predicate": {"custom_model_data":5262}, "model": "item/buff_icons/stop"}
+	]
+}

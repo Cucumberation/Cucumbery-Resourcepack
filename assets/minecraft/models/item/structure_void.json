@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/structure_void"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5213}, "model": "item/buff_icons/curse_of_creativity_place"}
+	]
+}

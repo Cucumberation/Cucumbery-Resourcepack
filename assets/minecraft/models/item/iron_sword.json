@@ -1,0 +1,19 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/iron_sword"
+	},
+    "display": {
+        "ground": {
+            "translation": [ 0, 3, 0],
+            "scale":[ 1, 1, 1]
+        }
+    },
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5257}, "model": "item/buff_icons/sharpness"},
+		{"predicate": {"custom_model_data":5276}, "model": "item/buff_icons/boss_slayer"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/tungsten_sword"},
+		{"predicate": {"custom_model_data":25202}, "model": "item/custom/titanium_sword"}
+	]
+}

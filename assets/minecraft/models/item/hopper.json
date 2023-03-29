@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/hopper"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5215}, "model": "item/buff_icons/curse_of_inventory"}
+	]
+}

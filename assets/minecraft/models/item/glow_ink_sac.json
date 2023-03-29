@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/glow_ink_sac"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5202}, "model": "item/buff_icons/bane_of_arthropods"},
+		{"predicate": {"custom_model_data":5221}, "model": "item/buff_icons/darkness_terror_resistance"}
+	]
+}

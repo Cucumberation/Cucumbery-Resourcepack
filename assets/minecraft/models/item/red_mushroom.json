@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/red_mushroom"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "item/red_mushroom"},
+		{"predicate": {"custom_model_data":5217}, "model": "item/buff_icons/curse_of_mushroom"}
+	]
+}

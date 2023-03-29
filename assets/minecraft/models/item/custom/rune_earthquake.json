@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+	"textures": {
+		"layer0": "item/custom/rune_earthquake"
+	},
+    "display": {
+		"ground": {
+            "translation": [ 0, 16, 0],
+            "scale":[ 2, 2, 0.1]
+        },
+        "head": {
+			"rotation": [0, 180, 0],
+            "translation": [ 0, 40, 0],
+            "scale":[ 3, 3, 0]
+        },
+        "gui": {
+            "translation": [ 0, 1.5, 0],
+            "scale":[ 2, 2, 2]
+        }
+    }
+}

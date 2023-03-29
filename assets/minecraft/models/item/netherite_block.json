@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/netherite_block"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/netherite_block"},
+		{"predicate": {"custom_model_data":5264}, "model": "item/buff_icons/thick"}
+	]
+}

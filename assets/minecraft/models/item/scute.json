@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/scute"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/boo"},
+		{"predicate": {"custom_model_data":25202}, "model": "item/custom/boo_hungry"},
+		{"predicate": {"custom_model_data":25203}, "model": "item/custom/cucumberite_ore"}
+	]
+}

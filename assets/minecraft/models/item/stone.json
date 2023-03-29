@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/stone"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/stone"},
+		{"predicate": {"custom_model_data":5244}, "model": "item/buff_icons/mundane"}
+	]
+}

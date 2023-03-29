@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/poisonous_potato"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5210}, "model": "item/buff_icons/curse_of_consumption"},
+		{"predicate": {"custom_model_data":5271}, "model": "item/buff_icons/var_stomachache"}
+	]
+}

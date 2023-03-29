@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/popped_chorus_fruit"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5223}, "model": "item/buff_icons/do_not_pickup_but_throw_it"}
+	]
+}

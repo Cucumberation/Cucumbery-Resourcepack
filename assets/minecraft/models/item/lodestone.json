@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/lodestone"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/lodestone"},
+		{"predicate": {"custom_model_data":16}, "model": "item/buff_icons/curse_of_jumping"}
+	]
+}

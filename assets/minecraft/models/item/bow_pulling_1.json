@@ -1,0 +1,9 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "item/bow_pulling_1"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":5233}, "model": "item/buff_icons/idiot_shooter"}
+	]
+}

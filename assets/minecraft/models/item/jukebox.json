@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/jukebox"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/jukebox"},
+		{"predicate": {"custom_model_data":5256}, "model": "item/buff_icons/server_radio_listening"}
+	]
+}

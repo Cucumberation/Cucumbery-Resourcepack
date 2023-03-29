@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/turtle_egg"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5214}, "model": "item/buff_icons/curse_of_drop"},
+		{"predicate": {"custom_model_data":5291}, "model": "item/buff_icons/rune_cooldown"}
+	]
+}

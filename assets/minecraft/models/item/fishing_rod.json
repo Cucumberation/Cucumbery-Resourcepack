@@ -1,0 +1,22 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/fishing_rod"
+    },
+    "display": {
+        "ground": {
+            "translation": [ 0, 3, 0],
+            "scale":[ 1, 1, 1]
+        }
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "cast": 1
+            },
+            "model": "item/fishing_rod_cast"
+        },
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/grappling_hook"},
+		{"predicate": {"custom_model_data":25201,"cast":1}, "model": "item/custom/grappling_hook_hooked"}
+    ]
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/ender_eye"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5206}, "model": "item/buff_icons/continual_spectating"},
+		{"predicate": {"custom_model_data":5277}, "model": "item/buff_icons/ender_slayer"}
+	]
+}

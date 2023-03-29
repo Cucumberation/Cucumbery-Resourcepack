@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cocoa_beans"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5209}, "model": "item/buff_icons/curse_of_beans"}
+	]
+}

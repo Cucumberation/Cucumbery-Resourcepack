@@ -1,0 +1,17 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/totem_of_undying"
+	},
+    "display": {
+        "ground": {
+            "translation": [ 0, 3, 0],
+            "scale":[ 1, 1, 1]
+        }
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":5235}, "model": "item/buff_icons/invincible"},
+		{"predicate": {"custom_model_data":5251}, "model": "item/buff_icons/resurrection"},
+		{"predicate": {"custom_model_data":5252}, "model": "item/buff_icons/resurrection_cooldown"}
+	]
+}

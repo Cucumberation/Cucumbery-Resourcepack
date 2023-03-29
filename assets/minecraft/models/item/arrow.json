@@ -1,0 +1,17 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/arrow"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/arrow_crit"},
+		{"predicate": {"custom_model_data":25202}, "model": "item/custom/arrow_explosive"},
+		{"predicate": {"custom_model_data":25203}, "model": "item/custom/arrow_explosive_destruction"},
+		{"predicate": {"custom_model_data":25204}, "model": "item/custom/arrow_flame"},
+		{"predicate": {"custom_model_data":25205}, "model": "item/custom/arrow_infinite"},
+		{"predicate": {"custom_model_data":25206}, "model": "item/custom/arrow_mount"},
+		{"predicate": {"custom_model_data":25207}, "model": "item/custom/arrow_mount_disposal"},
+		{"predicate": {"custom_model_data":25208}, "model": "item/custom/arrow_mount_infinite"}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/wooden_pickaxe"
+	},
+    "display": {
+        "ground": {
+            "translation": [ 0, 3, 0],
+            "scale":[ 1, 1, 1]
+        }
+    },
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/todwot_pickaxe"}
+	]
+}

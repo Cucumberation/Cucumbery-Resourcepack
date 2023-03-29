@@ -1,0 +1,18 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/custom/core_gemstone",
+		"layer1": "item/custom/core_gemstone_experience"
+	},
+    "display": {
+        "ground": {
+            "translation": [ 0, 3, 0],
+            "scale":[ 1, 1, 1]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ -10, 10, -1000],
+            "scale":[ 2, 2, 2]
+        }
+    }
+}
