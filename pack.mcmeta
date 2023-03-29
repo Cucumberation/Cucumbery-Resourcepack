@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 13,
-    "description": [{"translate":"Cucumbery", "color":"#52EE52"}, {"translate":" resource pack", "color":"gray"}]
+    "description": [{"translate":"Cucumbery Test Commit", "color":"#52EE52"}, {"translate":" resource pack", "color":"gray"}]
   }
 }
