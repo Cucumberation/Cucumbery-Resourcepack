@@ -8,5 +8,6 @@
 		{"predicate": {"custom_model_data":25201}, "model": "item/custom/small_drill_fuel"},
 		{"predicate": {"custom_model_data":25202}, "model": "item/custom/medium_drill_fuel"},
 		{"predicate": {"custom_model_data":25203}, "model": "item/custom/large_drill_fuel"}
+		{"predicate": {"custom_model_data":25204}, "model": "item/custom/onyx"}
 	]
 }
