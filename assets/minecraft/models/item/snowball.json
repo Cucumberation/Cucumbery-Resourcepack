@@ -5,6 +5,6 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":5244}, "model": "item/custom/opal"}
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/opal"}
 	]
 }
