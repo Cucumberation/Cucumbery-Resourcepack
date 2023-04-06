@@ -13,6 +13,7 @@
 		{"predicate": {"custom_model_data":5212}, "model": "item/buff_icons/curse_of_creativity_break"},
 		{"predicate": {"custom_model_data":25201}, "model": "item/custom/stonk"},
 		{"predicate": {"custom_model_data":25202}, "model": "item/custom/platinum_pickaxe"},
-		{"predicate": {"custom_model_data":25203}, "model": "item/custom/bronze_pickaxe"}
+		{"predicate": {"custom_model_data":25203}, "model": "item/custom/bronze_pickaxe"},
+		{"predicate": {"custom_model_data":25204}, "model": "item/custom/tin_pickaxe"}
 	]
 }
