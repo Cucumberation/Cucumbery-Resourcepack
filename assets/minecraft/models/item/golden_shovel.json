@@ -8,5 +8,8 @@
             "translation": [ 0, 3, 0],
             "scale":[ 1, 1, 1]
         }
-    }
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/platinum_shovel"}
+    ]
 }

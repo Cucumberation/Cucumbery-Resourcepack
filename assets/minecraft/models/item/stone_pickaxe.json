@@ -11,6 +11,8 @@
     },
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":25201}, "model": "item/custom/copper_pickaxe"}
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/copper_pickaxe"},
+		{"predicate": {"custom_model_data":25202}, "model": "item/custom/lead_pickaxe"},
+		{"predicate": {"custom_model_data":25203}, "model": "item/custom/cemented_carbide_pickaxe"}	
 	]
 }
