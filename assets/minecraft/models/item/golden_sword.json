@@ -11,6 +11,6 @@
     },
 	"overrides": [
 		{"predicate": {"custom_model_data":25201}, "model": "item/custom/platinum_sword"},
-        {"predicate": {"custom_model_data":25202}, "model": "item/custom/bronze_hoe"}
+        {"predicate": {"custom_model_data":25202}, "model": "item/custom/bronze_sword"}
     ]
 }
