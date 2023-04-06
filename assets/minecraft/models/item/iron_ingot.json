@@ -8,6 +8,7 @@
 		{"predicate": {"custom_model_data":25201}, "model": "item/custom/mithril_ingot"},
 		{"predicate": {"custom_model_data":25202}, "model": "item/custom/titanium_ingot"},
 		{"predicate": {"custom_model_data":25203}, "model": "item/custom/nautilite_ingot"},
-		{"predicate": {"custom_model_data":25204}, "model": "item/custom/lead_ingot"}
+		{"predicate": {"custom_model_data":25204}, "model": "item/custom/lead_ingot"},
+		{"predicate": {"custom_model_data":25205}, "model": "item/custom/cemented_carbide"}
 	]
 }
