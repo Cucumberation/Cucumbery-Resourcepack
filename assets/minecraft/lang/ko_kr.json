@@ -326,7 +326,9 @@
 	"%s이(가) %s를 재생합니다": "%s이(가) %s를 재생합니다",
 	"subtitles.entity.tadpole.grow_up": "올챙이가 자람",
 	"chat.type.text": "%s : %s",
-	
+
+	"item.cucumbery.plastic_debris": "플라스틱 잔해",
+	"item.cucumbery.plastic_meterial": "플라스틱",
 	"텅스텐 광석": "텅스텐 광석",
 	"텅스텐 주괴": "텅스텐 주괴",
 	"코발트 광석": "코발트 광석",
