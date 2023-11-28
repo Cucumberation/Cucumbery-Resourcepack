@@ -13,6 +13,8 @@
 	"star_catch_4":{"sounds":[{"name":"reinforce/star_catch_4"}]},
 	"star_catch_5":{"sounds":[{"name":"reinforce/star_catch_5"}]},
 	"custom_i_wont_let_you_go":{"sounds":[{"name":"custom/i_wont_let_you_go"}]},
+	"custom_sus_breaking":{"sounds":[{"name":"custom/sus_breaking"}]},
+	"custom_sus_broken":{"sounds":[{"name":"custom/sus_broken"}]},
 	"block.note_block.guitar": {
 		"sounds": [
 			"block/note_block/guitar"
