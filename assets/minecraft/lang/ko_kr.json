@@ -9,7 +9,7 @@
     "attribute.name.generic.luck": "행운",
     "attribute.name.generic.max_health": "최대 HP",
     "attribute.name.generic.movement_speed": "이동 속도",
-    "debug.prefix": "[디버그]]",
+    "debug.prefix": "[디버그]",
 	"enchantment.level.0": "0",
     "item.canBreak": "부술 수 있는 것",
     "item.canPlace": "이 위에 설치 가능",
