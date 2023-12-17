@@ -1,7 +1,21 @@
 {
   "pack": {
     "pack_format": 18,
-    "description": [{"translate":"Cucumbery Resourcepack", "color":"#52ee52"}, {"translate":" resource pack", "color":"gray"}],
-	"supported_formats":[15,2000]
+    "supported_formats": [15, 2000],
+    "description": [
+      {
+        "translate": "cucumbery.message.cucumbery",
+        "fallback": "Cucumbery",
+        "color": "#52ee52"
+      },
+      {
+        "text": " "
+      },
+      {
+        "translate": "cucumbery.message.resourcepack",
+        "fallback": "Resource pack",
+        "color": "gray"
+      }
+    ]
   }
 }
