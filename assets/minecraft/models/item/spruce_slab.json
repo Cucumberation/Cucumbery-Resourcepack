@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/spruce_planks",
+	  "side": "minecraft:block/spruce_planks",
+	  "top": "minecraft:block/spruce_planks"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/spruce_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/spruce_slab_vertical"}
+	]
+}

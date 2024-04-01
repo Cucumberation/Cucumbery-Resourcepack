@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/birch_planks",
+	  "side": "minecraft:block/birch_planks",
+	  "top": "minecraft:block/birch_planks"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/birch_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/birch_slab_vertical"}
+	]
+}

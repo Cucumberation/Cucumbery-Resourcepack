@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/jungle_planks",
+	  "side": "minecraft:block/jungle_planks",
+	  "top": "minecraft:block/jungle_planks"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/jungle_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/jungle_slab_vertical"}
+	]
+}
