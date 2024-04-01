@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/prismarine",
+	  "side": "minecraft:block/prismarine",
+	  "top": "minecraft:block/prismarine"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/prismarine_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/prismarine_slab_vertical"}
+	]
+}

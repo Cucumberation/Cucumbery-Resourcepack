@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/cobblestone",
+	  "side": "minecraft:block/cobblestone",
+	  "top": "minecraft:block/cobblestone"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/cobblestone_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/cobblestone_slab_vertical"}
+	]
+}

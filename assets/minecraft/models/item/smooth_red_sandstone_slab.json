@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/smooth_red_sandstone",
+	  "side": "minecraft:block/smooth_red_sandstone",
+	  "top": "minecraft:block/smooth_red_sandstone"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/smooth_red_sandstone_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/smooth_red_sandstone_slab_vertical"}
+	]
+}

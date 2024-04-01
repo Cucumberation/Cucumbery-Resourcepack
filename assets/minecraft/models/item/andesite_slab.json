@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/andesite",
+	  "side": "minecraft:block/andesite",
+	  "top": "minecraft:block/andesite"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/andesite_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/andesite_slab_vertical"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/cobbled_deepslate",
+	  "side": "minecraft:block/cobbled_deepslate",
+	  "top": "minecraft:block/cobbled_deepslate"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/cobbled_deepslate_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/cobbled_deepslate_slab_vertical"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/diorite",
+	  "side": "minecraft:block/diorite",
+	  "top": "minecraft:block/diorite"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/diorite_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/diorite_slab_vertical"}
+	]
+}

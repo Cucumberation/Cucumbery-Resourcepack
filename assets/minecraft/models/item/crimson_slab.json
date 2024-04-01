@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/crimson_planks",
+	  "side": "minecraft:block/crimson_planks",
+	  "top": "minecraft:block/crimson_planks"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/crimson_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/crimson_slab_vertical"}
+	]
+}

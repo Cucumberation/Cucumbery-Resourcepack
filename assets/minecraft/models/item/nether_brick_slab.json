@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/nether_bricks",
+	  "side": "minecraft:block/nether_bricks",
+	  "top": "minecraft:block/nether_bricks"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/nether_brick_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/nether_brick_slab_vertical"}
+	]
+}

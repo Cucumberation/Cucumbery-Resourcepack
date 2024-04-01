@@ -1,0 +1,35 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/tuff",
+	  "side": "minecraft:block/tuff",
+	  "top": "minecraft:block/tuff"
+	},
+    "display": {
+        "gui": {
+            "rotation": [ -60, 0, 45 ],
+            "translation": [ -1.75, 1, 0],
+            "scale":[ 0.6, 0.6, 0.6]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 90 ],
+            "translation": [ 0, 1, 0],
+            "scale":[ 0.25, 0.25, 0.25]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 0, 90 ],
+            "translation": [ 0, -8, -10],
+            "scale":[ 0.75, 0.75, 0.75]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 30, 0, 90 ],
+            "translation": [ -1.5, 2, 0],
+            "scale":[ 0.4, 0.4, 0.4]
+        },
+        "head": {
+            "rotation": [ 0, 0, 90 ],
+            "translation": [ -4, 0, 0],
+            "scale":[ 1, 1, 1]
+        }
+    }
+}

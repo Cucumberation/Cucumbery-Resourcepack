@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/polished_blackstone_bricks",
+	  "side": "minecraft:block/polished_blackstone_bricks",
+	  "top": "minecraft:block/polished_blackstone_bricks"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/polished_blackstone_brick_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/polished_blackstone_brick_slab_vertical"}
+	]
+}

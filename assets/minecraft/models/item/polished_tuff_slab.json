@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/polished_tuff",
+	  "side": "minecraft:block/polished_tuff",
+	  "top": "minecraft:block/polished_tuff"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/polished_tuff_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/polished_tuff_slab_vertical"}
+	]
+}

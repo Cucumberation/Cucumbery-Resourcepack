@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/quartz_block",
+	  "side": "minecraft:block/quartz_block",
+	  "top": "minecraft:block/quartz_block"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/quartz_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/quartz_slab_vertical"}
+	]
+}

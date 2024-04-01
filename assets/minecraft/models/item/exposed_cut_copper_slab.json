@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/exposed_cut_copper",
+	  "side": "minecraft:block/exposed_cut_copper",
+	  "top": "minecraft:block/exposed_cut_copper"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/exposed_cut_copper_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/exposed_cut_copper_slab_vertical"}
+	]
+}

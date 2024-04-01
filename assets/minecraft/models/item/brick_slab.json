@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/bricks",
+	  "side": "minecraft:block/bricks",
+	  "top": "minecraft:block/bricks"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/brick_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/brick_slab_vertical"}
+	]
+}

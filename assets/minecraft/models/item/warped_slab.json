@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/warped_planks",
+	  "side": "minecraft:block/warped_planks",
+	  "top": "minecraft:block/warped_planks"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/warped_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/warped_slab_vertical"}
+	]
+}

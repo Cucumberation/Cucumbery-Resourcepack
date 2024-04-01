@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/sandstone",
+	  "side": "minecraft:block/sandstone",
+	  "top": "minecraft:block/sandstone"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/sandstone_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/sandstone_slab_vertical"}
+	]
+}

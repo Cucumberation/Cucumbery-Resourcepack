@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/granite",
+	  "side": "minecraft:block/granite",
+	  "top": "minecraft:block/granite"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/granite_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/granite_slab_vertical"}
+	]
+}
