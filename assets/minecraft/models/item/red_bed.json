@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/template_bed",
+	"textures": {
+	  "particle": "minecraft:block/red_wool"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "minecraft:item/template_bed"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/buff_icons/blanket_lover"}
+	]
+}
