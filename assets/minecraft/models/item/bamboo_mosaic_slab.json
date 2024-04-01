@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/bamboo_mosaic",
+	  "side": "minecraft:block/bamboo_mosaic",
+	  "top": "minecraft:block/bamboo_mosaic"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/bamboo_mosaic_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/bamboo_mosaic_slab_vertical"}
+	]
+}

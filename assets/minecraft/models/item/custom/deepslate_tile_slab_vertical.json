@@ -1,9 +1,9 @@
 {
 	"parent": "minecraft:block/slab",
 	"textures": {
-	  "bottom": "minecraft:block/waxed_exposed_cut_copper",
-	  "side": "minecraft:block/waxed_exposed_cut_copper",
-	  "top": "minecraft:block/waxed_exposed_cut_copper"
+	  "bottom": "minecraft:block/deepslate_tiles",
+	  "side": "minecraft:block/deepslate_tiles",
+	  "top": "minecraft:block/deepslate_tiles"
 	},
     "display": {
         "gui": {
@@ -12,8 +12,8 @@
             "scale":[ 0.6, 0.6, 0.6]
         },
         "ground": {
-            "rotation": [ 0, 0, 90 ],
-            "translation": [ 0, 1, 0],
+            "rotation": [ 90, 0, 0 ],
+            "translation": [ 0, 2, 0],
             "scale":[ 0.25, 0.25, 0.25]
         },
         "firstperson_righthand": {
