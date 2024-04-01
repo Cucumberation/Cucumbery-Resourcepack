@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/cherry_planks",
+	  "side": "minecraft:block/cherry_planks",
+	  "top": "minecraft:block/cherry_planks"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/cherry_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/cherry_slab_vertical"}
+	]
+}

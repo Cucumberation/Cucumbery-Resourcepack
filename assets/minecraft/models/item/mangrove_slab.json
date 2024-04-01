@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/mangrove_planks",
+	  "side": "minecraft:block/mangrove_planks",
+	  "top": "minecraft:block/mangrove_planks"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/mangrove_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/mangrove_slab_vertical"}
+	]
+}

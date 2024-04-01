@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "minecraft:block/dark_oak_planks",
+	  "side": "minecraft:block/dark_oak_planks",
+	  "top": "minecraft:block/dark_oak_planks"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "block/dark_oak_slab"},
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/dark_oak_slab_vertical"}
+	]
+}
