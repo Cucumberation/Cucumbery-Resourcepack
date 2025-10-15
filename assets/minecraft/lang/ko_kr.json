@@ -10,7 +10,7 @@
     "attribute.modifier.take.1": "%2$s : -%1$s%%p",
     "attribute.modifier.take.2": "%2$s : -%1$s%%",
     "attribute.name.armor": "방어력",
-    "attribute.name.attack_damage": "샌즈",
+    "attribute.name.attack_damage": "대미지",
     "attribute.name.attack_knockback": "넉백",
     "attribute.name.knockback_resistance": "스탠스",
     "attribute.name.max_health": "최대 HP",
