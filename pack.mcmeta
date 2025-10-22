@@ -1,7 +1,12 @@
 {
   "pack": {
-    "pack_format": 18,
-    "description": [{"translate":"Cucumbery Resourcepack", "color":"#52ee52"}, {"translate":" resource pack", "color":"gray"}],
-	"supported_formats":[15,2000]
+    "pack_format": 69,
+    "description": [
+		{"translate":"Cucumbery Resourcepack", "color":"#52ee52"},
+		{"translate":" resource pack", "color":"gray"}
+	],
+        "min_format": 15,
+        "max_format": 69,
+        "supported_formats": [15, 69]
   }
 }
