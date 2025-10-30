@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "cucumbery:test.ttf",
+            "shift": [0, 1],
+            "size": 10.0,
+            "oversample": 2
+        }
+    ]
+}
